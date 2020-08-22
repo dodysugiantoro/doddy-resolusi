@@ -1,0 +1,5 @@
+Doddy Resolusi
+- Membuat aplikasi dengan bootstrap 4
+- Membuat aplikasi dengan code igniter
+- Membuat aplikasi dengan laravel
+- Membuat aplikasi keuangan
